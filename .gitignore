@@ -1,0 +1,14 @@
+.DS_Store
+.pampas/
+
+**/.idea/*
+**/target/*
+
+.idea
+*.iml
+**/*.iml
+*.class
+
+.project
+**/.settings/*
+
